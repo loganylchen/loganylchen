@@ -29,6 +29,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [hdf5格式到底是什么](http://btrspg.github.io/2020/08/10/hdf5/)
+- [Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis](http://btrspg.github.io/2020/08/07/Deep-learning-enables-accurate-clustering-with-batch-effect-removal-in-single-cell-RNA-seq-analysis/)
+- [ExpressionSet](http://btrspg.github.io/2020/03/01/ExpressionSet/)
+- [Grokking-Algorithms](http://btrspg.github.io/2020/02/04/Grokking-Algorithms/)
+- [Conda打造‘完美’分析环境](http://btrspg.github.io/2019/09/13/conda-build-perfect-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 [github]: https://github.com/btrspg
