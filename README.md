@@ -27,7 +27,9 @@
 <br />
 <br />
 
-
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [github]: https://github.com/btrspg
 [twitter]: https://twitter.com/logan_cyl
