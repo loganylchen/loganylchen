@@ -29,6 +29,9 @@
 
 ### 📺Latest Youtube Videos
 <!-- YOUTUBE-LIST:START -->
+- [2020-08-08-Deep learning enables accurate clustering with batch effect removal in single-cell RNAseq](https://www.youtube.com/watch?v=52EaDat600c)
+- [2020-08-01 Single cell RNA-seq 分析方法-孟媛](https://www.youtube.com/watch?v=PXTHJwdgu_Q)
+- [2020-07-25-Role of RNA modifications in cancer-陈玥茏](https://www.youtube.com/watch?v=DNVrc8Qq3NU)
 <!-- YOUTUBE-LIST:END -->
 
 ---
