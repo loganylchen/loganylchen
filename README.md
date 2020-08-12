@@ -46,6 +46,8 @@
 
 ---
 
+![Logan's github stats](https://github-readme-stats.vercel.app/api?username=btrspg&show_icons=true)
+
 [github]: https://github.com/btrspg
 [twitter]: https://twitter.com/logan_cyl
 [youtube]: https://www.youtube.com/channel/UC0Bz6uBlUwFDoUnqv_oJv6Q
