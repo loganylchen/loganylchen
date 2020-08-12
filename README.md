@@ -27,13 +27,13 @@
 <br />
 <br />
 
-### Latest Youtube Videos
+### 📺Latest Youtube Videos
 <!-- YOUTUBE-LIST:START -->
 <!-- YOUTUBE-LIST:END -->
 
 ---
 
-### Blog posts
+### 📕Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [hdf5格式到底是什么](http://btrspg.github.io/2020/08/10/hdf5/)
 - [Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis](http://btrspg.github.io/2020/08/07/Deep-learning-enables-accurate-clustering-with-batch-effect-removal-in-single-cell-RNA-seq-analysis/)
@@ -46,7 +46,8 @@
 
 ---
 
-![Logan's github stats](https://github-readme-stats.vercel.app/api?username=btrspg&show_icons=true)
+<img align="left" alt="Logan's github stats" src="https://github-readme-stats.vercel.app/api?username=btrspg&show_icons=true&hide_border=true" />
+
 
 [github]: https://github.com/btrspg
 [twitter]: https://twitter.com/logan_cyl
