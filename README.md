@@ -27,9 +27,19 @@
 <br />
 <br />
 
+### Latest Youtube Videos
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
+
+---
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+
+---
 
 [github]: https://github.com/btrspg
 [twitter]: https://twitter.com/logan_cyl
