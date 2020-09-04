@@ -29,11 +29,11 @@
 
 ### 📺Latest Youtube Videos
 <!-- YOUTUBE-LIST:START -->
+- [2020/08/29-Cell composition analysis of bulk genomics using single-cell data-马鸿哲](https://www.youtube.com/watch?v=yXyTyWQThKE)
 - [Gene Set Enrichment Analysis(GSEA)我终于读明白了](https://www.youtube.com/watch?v=r4xLspmjlTo)
 - [Git的初步使用以及github模版的使用](https://www.youtube.com/watch?v=yX4hlsvcTzQ)
 - [2020-08-08-基于深度学习的单细胞去除批次效应的方法-陈玥茏](https://www.youtube.com/watch?v=52EaDat600c)
 - [2020-08-01 Single cell RNA-seq 分析方法-孟媛](https://www.youtube.com/watch?v=PXTHJwdgu_Q)
-- [2020-07-25-Role of RNA modifications in cancer-陈玥茏](https://www.youtube.com/watch?v=DNVrc8Qq3NU)
 <!-- YOUTUBE-LIST:END -->
 
 ---
