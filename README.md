@@ -1,7 +1,7 @@
 ### Hi there, I'm Chen Yuelong, and you can also call me Logan. 👋
 
 
-## I'm a pre-PhD candidate now!
+## I'm a PhD candidate now!
 
 - 🔭 I’m currently working on a project of **nanopore modification detection**!
 - 🌱 I’m currently learning everything 😂.
