@@ -2,7 +2,7 @@ name: Latest youtube workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE-LIST"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOPongunjVMVdkOWDxQTbsm2E5VCKOJGO"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOPongunjVMVTyugmWJlmPpEaqHHTlToC"
