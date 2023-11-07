@@ -11,6 +11,7 @@
 
 ### 📺Videos to be watched and learned
 <!-- YOUTUBE-LIST:START -->
+- [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 <!-- YOUTUBE-LIST:END -->
 
 
