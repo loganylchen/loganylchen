@@ -59,17 +59,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📝 Publications
+
+- **LAFITE Reveals the Complexity of Transcript Isoforms in Subcellular Fractions** — *Advanced Science*, 2023. [DOI](https://doi.org/10.1002/advs.202203480)
+- **Using Baleen to Identify Combinatorial RNA Modification Events at Transcript Isoform Level through Nanopore Direct RNA Sequencing** — SKLA Abstract, CUHK, 2023
+<!-- Add more publications here -->
+
+---
+
+### 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loganylchen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loganylchen&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loganylchen&theme=tokyonight&hide_border=true" alt="Activity Graph" width="90%"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/loganylchen/loganylchen/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/loganylchen/loganylchen/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/loganylchen/loganylchen/blob/output/github-snake.svg" />
+</picture>
 
 ---
 
 ### 📫 How to Reach Me
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4639--0396-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4639-0396)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/logan_cyl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuelong.chen@link.cuhk.edu.hk)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=github&logoColor=white)](https://loganylchen.github.io)
