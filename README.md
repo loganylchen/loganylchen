@@ -3,7 +3,7 @@
 # Hi, I'm **Yuelong Chen** 👋
 ### But you can call me **Logan**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&vCenter=true&width=550&lines=PhD+Candidate+%7C+CUHK;Research+Assistant;Nanopore+RNA+Modification+Detection;Bioinformatics+%2B+Deep+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&vCenter=true&width=550&lines=PhD+%7C+CUHK;Research+Assistant;Nanopore+RNA+Modification+Detection;Bioinformatics+%2B+Deep+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ### 🧬 About Me
 
-- 🔬 PhD candidate & Research Assistant at **The Chinese University of Hong Kong (CUHK)**, researching **RNA modification detection from Nanopore direct RNA sequencing**
+- 🔬 PhD & Research Assistant at **The Chinese University of Hong Kong (CUHK)**, researching **RNA modification detection from Nanopore direct RNA sequencing**
 - 🧪 Built **[ModNet](https://github.com/loganylchen/modnet)** — multi-task deep learning for RNA modification detection from Nanopore DRS
 - 🐋 Maintainer of **[Baleen / pybaleen](https://github.com/loganylchen/pybaleen)** — RNA modification detector based on Nanopore direct-RNA-seq
 - 🧑‍💻 Work across **nanopore bioinformatics**, **RNA-seq analysis**, **gene fusion detection**, and **clinical genomics**
