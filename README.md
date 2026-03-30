@@ -62,20 +62,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loganylchen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loganylchen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loganylchen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loganylchen&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
-
----
-
-### 📺 Learning Queue
-<!-- YOUTUBE-LIST:START -->
-- [Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 1: Introduction](https://www.youtube.com/watch?v=2fq9wYslV0A)
-- [Contributing To Open Source – Beginner&#39;s Guide](https://www.youtube.com/watch?v=mklEhT_RLos)
-- [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
-- [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
-- [Kubernetes Roadmap - Complete Step-by-Step Learning Path](https://www.youtube.com/watch?v=S8eX0MxfnB4)
-<!-- YOUTUBE-LIST:END -->
 
 ---
 
