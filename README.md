@@ -33,7 +33,7 @@
 **Tools & Frameworks:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-358(3B?style=flat-square)
+![Snakemake](https://img.shields.io/badge/Snakemake-35803B?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
